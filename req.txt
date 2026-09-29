@@ -1,0 +1,6 @@
+streamlit
+regex
+langchain
+langchain_google_genai
+dotenv
+python-pptx==1.0.2
