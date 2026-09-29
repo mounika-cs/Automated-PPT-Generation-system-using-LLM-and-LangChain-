@@ -1,4 +1,4 @@
-# Title of the Projectr
+# Title of the Project
 "Automated-PPT-Generation-system-using-LLM-and-LangChain."
 # Description 
 Automated PPT Generation Using LLM and LangChain is an AI-based system that automatically creates PowerPoint presentations from a user-provided prompt. The system uses Large Language Models  to generate relevant slide content and LangChain to manage the content-generation workflow. It reducing manual effort and saving time in presentation creation.
